@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zinab\\Documents\\GitHub\\University_Library_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E809879E-881E-4333-B673-81DC3D6C81E9}|University_Library_Management\\University_Library_Management.csproj|c:\\users\\zinab\\documents\\github\\university_library_management\\university_library_management\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E809879E-881E-4333-B673-81DC3D6C81E9}|University_Library_Management\\University_Library_Management.csproj|solutionrelative:university_library_management\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E809879E-881E-4333-B673-81DC3D6C81E9}|University_Library_Management\\University_Library_Management.csproj|c:\\users\\zinab\\documents\\github\\university_library_management\\university_library_management\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E809879E-881E-4333-B673-81DC3D6C81E9}|University_Library_Management\\University_Library_Management.csproj|solutionrelative:university_library_management\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E809879E-881E-4333-B673-81DC3D6C81E9}|University_Library_Management\\University_Library_Management.csproj|C:\\Users\\zinab\\Documents\\GitHub\\University_Library_Management\\University_Library_Management\\Properties\\Settings.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E809879E-881E-4333-B673-81DC3D6C81E9}|University_Library_Management\\University_Library_Management.csproj|solutionrelative:University_Library_Management\\Properties\\Settings.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E809879E-881E-4333-B673-81DC3D6C81E9}|University_Library_Management\\University_Library_Management.csproj|C:\\Users\\zinab\\Documents\\GitHub\\University_Library_Management\\University_Library_Management\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E809879E-881E-4333-B673-81DC3D6C81E9}|University_Library_Management\\University_Library_Management.csproj|solutionrelative:University_Library_Management\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zinab\\Documents\\GitHub\\University_Library_Management\\University_Library_Management\\Home.cs",
+              "RelativeDocumentMoniker": "University_Library_Management\\Home.cs",
+              "ToolTip": "C:\\Users\\zinab\\Documents\\GitHub\\University_Library_Management\\University_Library_Management\\Home.cs [Design]",
+              "RelativeToolTip": "University_Library_Management\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T19:29:57.362Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\zinab\\Documents\\GitHub\\University_Library_Management\\University_Library_Management\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "University_Library_Management\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\zinab\\Documents\\GitHub\\University_Library_Management\\University_Library_Management\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "University_Library_Management\\Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T19:18:48.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\zinab\\Documents\\GitHub\\University_Library_Management\\University_Library_Management\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "University_Library_Management\\Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\zinab\\Documents\\GitHub\\University_Library_Management\\University_Library_Management\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "University_Library_Management\\Properties\\Settings.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T19:18:34.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\zinab\\Documents\\GitHub\\University_Library_Management\\University_Library_Management\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "University_Library_Management\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\zinab\\Documents\\GitHub\\University_Library_Management\\University_Library_Management\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "University_Library_Management\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T19:18:13.949Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
